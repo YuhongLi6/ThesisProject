@@ -1,0 +1,73 @@
+Added Component: Designator=F1(Fiducial_1.5mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=F2(Fiducial_1.5mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=F3(Fiducial_1.5mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=F4(Fiducial_1.5mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TEST POINTS)
+Added Component: Designator=J2(TEST POINTS)
+Added Component: Designator=J3(TEST POINTS)
+Added Component: Designator=J4(TEST POINTS)
+Added Component: Designator=J5(TEST POINTS)
+Added Component: Designator=J6(TEST POINTS)
+Added Component: Designator=J7(TEST POINTS)
+Added Component: Designator=J8(TEST POINTS)
+Added Component: Designator=J9(TEST POINTS)
+Added Component: Designator=U1(MOTIMOVE Module)
+Added Component: Designator=U2(Arduino Nano 33 BLE)
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=3V3_IN Pin=J3-1
+Added Pin To Net: NetName=SAFETY Pin=J4-1
+Added Pin To Net: NetName=SPI_SCK Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=VCC Pin=J8-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-1
+Added Pin To Net: NetName=SPI_SS Pin=U1-4
+Added Pin To Net: NetName=SPI_MISO Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=5V_EN Pin=U1-9
+Added Pin To Net: NetName=SPI_SCK Pin=U1-22
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-23
+Added Pin To Net: NetName=SENSE1 Pin=U1-24
+Added Pin To Net: NetName=PULSE1 Pin=U1-25
+Added Pin To Net: NetName=RELE1 Pin=U1-26
+Added Pin To Net: NetName=3V3_IN Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=SAFETY Pin=U1-32
+Added Pin To Net: NetName=SPI_SCK Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=3V3_IN Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=SAFETY Pin=U2-20
+Added Pin To Net: NetName=PULSE1 Pin=U2-21
+Added Pin To Net: NetName=5V_EN Pin=U2-22
+Added Pin To Net: NetName=RELE1 Pin=U2-23
+Added Pin To Net: NetName=SENSE1 Pin=U2-25
+Added Pin To Net: NetName=SPI_SS Pin=U2-28
+Added Pin To Net: NetName=SPI_MOSI Pin=U2-29
+Added Pin To Net: NetName=SPI_MISO Pin=U2-30
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=U1-17
+Added Net: Name=NetJ9_1

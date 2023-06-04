@@ -1,0 +1,10 @@
+Added Component: Designator=P1(KK series connector header)
+Added Component: Designator=SW1(2.54mm Mini Slide Switch)
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=Battery Pin=J8-1
+Added Pin To Net: NetName=Battery Pin=SW1-ON
+Added Pin To Net: NetName=Battery Pin=U1-8
+Added Net: Name=Battery
+Added Pin To Net: NetName=Com Pin=P1-1
+Added Pin To Net: NetName=Com Pin=SW1-COM
+Added Net: Name=Com

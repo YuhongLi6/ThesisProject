@@ -1,0 +1,56 @@
+Added Component: Designator=F1(Fiducial_1.5mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=F2(Fiducial_1.5mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=F3(Fiducial_1.5mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=F4(Fiducial_1.5mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "NA"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TEST POINTS)
+Added Component: Designator=J2(TEST POINTS)
+Added Component: Designator=J3(TEST POINTS)
+Added Component: Designator=J4(TEST POINTS)
+Added Component: Designator=J5(TEST POINTS)
+Added Component: Designator=J6(TEST POINTS)
+Added Component: Designator=J7(TEST POINTS)
+Added Component: Designator=J8(TEST POINTS)
+Added Component: Designator=J?(TEST POINTS)
+Added Pin To Net: NetName=3V3_IN Pin=J3-1
+Added Net: Name=3V3_IN
+Added Net: Name=5V_EN
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Net: Name=NetJ?_1
+Added Net: Name=PULSE1
+Added Net: Name=RELE1
+Added Pin To Net: NetName=SAFETY Pin=J4-1
+Added Net: Name=SAFETY
+Added Net: Name=SENSE1
+Added Net: Name=SPI_MISO
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCK Pin=J5-1
+Added Net: Name=SPI_SCK
+Added Net: Name=SPI_SS
+Added Pin To Net: NetName=VCC Pin=J8-1
+Added Net: Name=VCC
